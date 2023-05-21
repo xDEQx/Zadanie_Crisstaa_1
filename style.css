@@ -1,0 +1,38 @@
+body{
+    justify-content: center;
+      align-items: center;
+    display: flex;
+    height: 100vh;
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(244,244,244,1) 1%, rgba(0,0,0,1) 71%);
+}
+.kwadrat1 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10%;
+     
+  }
+  
+  .kwadrat2 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10%; 
+  }
+  
+  .kwadrat3 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10%; 
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
